@@ -1,7 +1,7 @@
-# Tic-Tac-Toe
 
-## About This Project
+# Tic-Tac-Toe :video_game:
 
+## About This Project	
 This is a Tic-Tac-Toe Game with ReactJS
 
 ## RUN
